@@ -18,7 +18,7 @@ public class UserController2 {
 
     @GetMapping("/")
     public String hello() {
-        return "gitgitgit";
+        return "gitgit";
     }
 
     @GetMapping("/mysql")
